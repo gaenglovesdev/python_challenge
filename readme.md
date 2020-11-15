@@ -37,6 +37,6 @@ _"Life is too short, You need python." (인생은 너무 짧으니 파이썬이 
 ## GOAL
 
 - [x] Syntax
-- [ ] Scrapper
+- [x] Scrapper
 - [ ] Django
 - [ ] Tensorflow
